@@ -25,3 +25,16 @@
     padding: 8px;
     text-align: left;
 }
+
+/* Borrow Table */
+.borrow-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.borrow-table th,
+.borrow-table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+}
