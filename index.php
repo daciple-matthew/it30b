@@ -653,12 +653,12 @@ if ($section === 'borrow') {
          <table class="borrow-table">
             <thead>
                 <tr>
-                    <th>Borrow ID</th>
-                    <th>Student</th>
-                    <th>Book</th>
-                    <th>Status</th>
-                    <th>Return Date</th>
-                    <th>Action</th>
+                    <th>BORROW ID</th>
+                    <th>STUDENT</th>
+                    <th>BOOK</th>
+                    <th>STATUS</th>
+                    <th>RETURN DATE</th>
+                    <th>ACTION</th>
                 </tr>
             </thead>
 
